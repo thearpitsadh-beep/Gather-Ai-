@@ -1,0 +1,6 @@
+{
+  "name": "EventPulse AI - GenAI Event Planner & Collab Hub",
+  "description": "GenAI-powered planning assistant for weddings, birthdays, and community events with real-time collaboration, budgets, timelines, RSVPs, automated reminders, and PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
